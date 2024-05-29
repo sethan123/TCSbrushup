@@ -18,6 +18,7 @@ public class naviagate {
 		driver.navigate().back();
 		System.out.println("Backed");
 		driver.quit();
+		//end
 		
 	}
 
